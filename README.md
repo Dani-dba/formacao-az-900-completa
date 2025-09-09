@@ -7,7 +7,7 @@ Estudante de Cloud Computing | Microsoft Azure | Concluí a Formação AZ-900 na
 ### 🔧 1. [Configuração e dimensionamento de VMs no Azure](https://github.com/Dani-dba/Configurando-recursos-e-dimensionamento-em-VMs-na-azure)
 Dimensionamento e estratégias de escalabilidade de Máquinas Virtuais
 
-### 💾 2. [Serviços de Armazenamento e migração de dados no Azure]([https://github.com/seu-usuario/Servicos-de-armazenamento-e-migracao-de-dados-no-azure](https://github.com/Dani-dba/Servicos-de-armazenamento-e-migracao-de-dados-no-azure)) 
+### 💾 2. [Serviços de Armazenamento e migração de dados no Azure](https://github.com/Dani-dba/Servicos-de-armazenamento-e-migracao-de-dados-no-azure)
 Estratégias de storage, redundância e migração de dados
 
 ### 🔐 3. [Identidade acesso e Segurança Azure](https://github.com/Dani-dba/Identidade-Acesso-e-Seguranca-no-Microsoft-Azure)
