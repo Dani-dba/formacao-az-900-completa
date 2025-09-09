@@ -26,6 +26,9 @@ Azure CLI, PowerShell, ARM Templates e Azure Arc
 - **Segurança**: RBAC, MFA, Zero Trust, Azure Policy
 - **Governança**: Cost Management, Tags, Compliance
 
+## 📈 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dani-dba&show_icons=true&theme=radical)
+
 ## 🎓 Certificação
 - **AZ-900**: Em preparação (Formação concluída na DIO)
 
