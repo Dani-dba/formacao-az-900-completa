@@ -27,7 +27,8 @@ Azure CLI, PowerShell, ARM Templates e Azure Arc
 - **Governança**: Cost Management, Tags, Compliance
 
 ## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dani-dba&show_icons=true&theme=radical)
+![GitHub Stats](anuraghazra/github-readme-stats
+DenverCoder1/github-readme-streak-stats)
 
 ## 🎓 Certificação
 - **AZ-900**: Em preparação (Formação concluída na DIO)
